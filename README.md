@@ -6,7 +6,7 @@
 Bachelor degree in Science and Technology attending my last year in Aerospace Engineering at Universidade Federal do ABC. Passionate about technology and aviation. 
 
 
--> Portfolio(https://pietrohl.github.com) \
--> LinkedIn(linkedin.com/in/pietrohlabadessa/) \
+Portfolio(https://pietrohl.github.com) \
+LinkedIn(linkedin.com/in/pietrohlabadessa/) \
 <mailto:pietro.h.labadessa@gmail.com/>
 
