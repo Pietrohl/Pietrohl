@@ -8,5 +8,5 @@ Bachelor degree in Science and Technology attending my last year in Aerospace En
 
 -> [Portfolio](https://pietrohl.github.io) \
 -> [LinkedIn](https://linkedin.com/in/pietrohlabadessa/) \
-<mailto:pietro.h.labadessa@gmail.com/>
+-> [:mailbox:](mailto:pietro.h.labadessa@gmail.com/)
 
