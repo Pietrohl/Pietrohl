@@ -11,10 +11,11 @@ Bachelor degree in Science and Technology attending my last year in Aerospace En
 
 
 
-
+<p align="left" dir="auto">
 <a href="https://github.com/Pietrohl/github-readme-stats">
   <img align="center" style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrohl&layout=compact&theme=rose_pine" />
 </a>
 <a href="https://github.com/Pietrohl/github-readme-stats">
   <img align="center" style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=Pietrohl&count_private=true&show_icons=true&theme=cobalt2" />
 </a>
+</p>
