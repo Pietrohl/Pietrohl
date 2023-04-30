@@ -11,7 +11,7 @@
 
 <p align="left" dir="auto">
 <a href="https://github.com/Pietrohl/github-readme-stats">
-  <img align="center" style="vertical-align:top;max-width:100%;height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrohl&layout=compact&theme=rose_pine&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=pietrohl.github.io,React-Tailwind-Boilerplate"/>
+  <img align="center" style="vertical-align:top;max-width:100%;height:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrohl&layout=compact&theme=rose_pine&count_private=true&size_weight=0.5&count_weight=0.5&exclude_repo=pietrohl.github.io,React-Tailwind-Boilerplate&langs_count=6"/>
 </a>
 <a href="https://github.com/Pietrohl/github-readme-stats">
   <img align="center" style="width: 49%;height: 100%;max-width:100%;padding-left:20px;" src="https://github-readme-stats.vercel.app/api?username=Pietrohl&count_private=true&show_icons=true&theme=cobalt2" />
